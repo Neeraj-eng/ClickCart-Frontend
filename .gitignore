@@ -1,11 +1,8 @@
 node_modules/
-<<<<<<< HEAD
 dist/
 .env
 .env.local
 .env.*.local
-=======
 .env
 dist/
 build/
->>>>>>> 90cbd852b20b11f298963ea7101ca2e0feb966e7
