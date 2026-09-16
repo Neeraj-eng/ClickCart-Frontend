@@ -68,12 +68,20 @@ const Product = () => {
             className="left-column-img"
             src={product.image}
             alt={"Product image"}
+<<<<<<< HEAD
             style={{ width: "50%", height: "auto" }}
+=======
+            style={{ width: "30%", height: "auto" }}
+>>>>>>> 90cbd852b20b11f298963ea7101ca2e0feb966e7
           />
         ) : (
           <div
             style={{
+<<<<<<< HEAD
               width: "50%",
+=======
+              width: "30%",
+>>>>>>> 90cbd852b20b11f298963ea7101ca2e0feb966e7
               height: "auto",
               display: "flex",
               justifyContent: "center",

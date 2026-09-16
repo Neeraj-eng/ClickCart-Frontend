@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,56 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# 🛒 ClickCart - Full Stack E-commerce Website
+
+## 📌 Overview
+
+ClickCart is a full-stack e-commerce web application built using the MERN stack. It allows users to browse products, manage their cart, authenticate securely, and place orders through a responsive and user-friendly interface.
+
+---
+
+## 🚀 Features
+
+- 🔍 Product browsing and search functionality
+- 🛒 Add to cart and remove from cart
+- 👤 User authentication (Login & Signup)
+- 📦 Order management system
+- 🖼️ Image upload using Cloudinary
+- 📱 Fully responsive design for mobile and desktop
+- ⚡ REST API integration
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Other Tools & Services
+- Cloudinary
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+clickcart/
+│── frontend/
+│── backend/
+│── models/
+│── routes/
+│── controllers/
+│── middleware/
+>>>>>>> 90cbd852b20b11f298963ea7101ca2e0feb966e7
